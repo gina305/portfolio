@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hi, I'm Gina. I've been working in the cyber security industry for last 7 years with my most recent roles focused on security compliance & monitoring and vulnerability management. My recent interest in secure software development was sparked by an innate desire to identify and automate vulnerability remediation and monitoring efforts. ⭐ My goal  is to create custom security solutions for companies so they can refocus excess resources (such as man hours, funding and training) to other areas that support their organizational goals. Let me know how I can contribute to your company's security posture 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,43 +11,29 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "The application I created using React that shows a 'Gallery of Horned Beasts', using a JSON file as a datasource. It also allows users to filter the beasts based on the number of horns.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gallery of horns.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original",
+            "name": "Javascript"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "In this project, I build an app for a cookie shop that sells cookies with a hint of fishy goodness. This project/app helps Pat, a cookie store owner, track cookie inventory across multiple store locations.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/salmon-cookies.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/gina305/Salmon-Cookies.git",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -55,63 +41,84 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "BusMall Market Analysis",
+        "startDate": "2022",
+        "description": "BusMall is a lean startup that needs to carefully watch its expenditures. I created this app to help BusMall do market analysis on proposed products to test their potential customer interest. This project displays products to users and captures their interests in products that Busmall will sell.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/BusMall.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/gina305/Bus-Mall.git",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Various",
+        "title": "Independent Developer",
+        "years": "02.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Web Development"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "CSS",
+          "Javascript",
+          "React",
+          "MongoDb"
+        ]
+      },
+      {
+        "company": "Infosec Institute",
+        "title": "Infosec Skills Author",
+        "years": "03.2019 - present",
+        "mainTech": [
+          "SIEM Monitoring"
+        ],
+        "technologies": [
+          "Splunk",
+          "Adobe Premier",
+          "Microsoft Office 365",
+          "Monosnap"
         ]
       },
       {
         "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "title": "Sr. Information Security Analyst Advisor",
+        "years": "10.2020 - 04.2021",
         "mainTech": [
-          "Angular 7/8"
+          "EDR (Endpoint Detection & Response)"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Incident Response",
+          "Compliance & Auditing",
+          "HBSS/McAfee Endpoint Security",
+          "ACAS/Nessus",
+          "Nessus",
+          "QRadar",
+          "COAMS",
+          "NIST 800-53"
+        ]
+      },
+      {
+        "company": "CND Analyst",
+        "title": "C4 Planning Solutions",
+        "years": "07.2019 - 11.2020",
+        "mainTech": [
+          "Compliance & Auditing"
+        ],
+        "technologies": [
+          "Incident Management",
+          "Compliance & Auditing",
+          "HBSS/McAfee Endpoint Security",
+          "ACAS/Nessus",
+          "QRadar",
+          "COAMS",
+          "NIST 800-53"
         ]
       }
     ]
