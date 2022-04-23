@@ -11,6 +11,6 @@ Estimate of time needed to complete: 4
 
 Start time: 11pm
 
-Finish time: 2am
+Finish time: 4am
 
-Actual time needed to complete: 3
+Actual time needed to complete: 5
